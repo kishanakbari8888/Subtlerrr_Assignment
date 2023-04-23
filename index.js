@@ -76,3 +76,8 @@ app.get('/v1/get_player_average', async (req, res) => {
 app.listen(3000, (req,res) => {
   console.log('Server started on port 3000');
 });
+
+
+
+
+// Link : https://subtlerrr-assignment.onrender.com/v1/get_player_average;
